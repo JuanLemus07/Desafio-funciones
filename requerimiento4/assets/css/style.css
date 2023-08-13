@@ -1,0 +1,19 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-color:rgb(189, 216, 240) ;
+}
+body {
+    display: grid;
+    grid-template-columns: repeat(5,1fr);
+    gap: 25px;
+    margin: 15px;
+    padding: 15px;
+}
+.box {
+    display: flex;
+    justify-content: center;
+    text-align: center;
+    align-items: center;
+}

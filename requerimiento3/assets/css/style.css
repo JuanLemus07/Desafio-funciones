@@ -1,0 +1,15 @@
+* {
+    margin: 0px;
+    padding: 0px;
+    font-family: 'Roboto', sans-serif;
+    background-color:rgb(8, 94, 170) ;
+}
+#ele1{
+    margin: 25px;
+    padding: 25px;  
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    text-align: center;
+    font-size: 45px;
+}
